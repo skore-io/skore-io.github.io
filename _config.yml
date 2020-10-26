@@ -6,7 +6,7 @@ github_username: skore-io
 linkedin_username: goskore
 show_excerpts: true
 theme: minima
-
+google_analytics: G-51RPKHMN4Z
 minima:
   social_links:
     github: skore-io
