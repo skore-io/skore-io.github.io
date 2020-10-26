@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  jekyll:
+    command: bundle exec jekyll serve --force_polling --future --draft -H 0.0.0.0 -P 4000
+    image: bretfisher/jekyll-serve
+    volumes:
+      - .:/site
+    ports:
+      - "8080:4000"

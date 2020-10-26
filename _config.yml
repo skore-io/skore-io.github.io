@@ -1,0 +1,16 @@
+title: Skore Engenharia
+description: >-
+  Conheça melhor o time de engenharia do Skore,
+  seus desafios técnicos e aprendizados
+github_username: skore-io
+linkedin_username: goskore
+show_excerpts: true
+theme: minima
+
+minima:
+  social_links:
+    github: skore-io
+    linkedin: goskore
+
+plugins:
+  - jekyll-feed
