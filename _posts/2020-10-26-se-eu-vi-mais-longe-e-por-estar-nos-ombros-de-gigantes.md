@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Se eu vi mais longe, é por estar nos ombros de gigantes
-filename: se-eu-vi-mais-longe-e-por-estar-nos-ombros-de-gigantes.md
+filename: 2020-10-26-se-eu-vi-mais-longe-e-por-estar-nos-ombros-de-gigantes.md
 categories: geral
 author: Natan Deitch
 ---
