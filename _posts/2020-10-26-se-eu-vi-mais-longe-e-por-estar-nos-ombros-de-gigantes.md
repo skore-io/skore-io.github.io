@@ -10,7 +10,7 @@ Olá eu sou o Natan, gostaria de agradecer sua primeira visita ao blog da engenh
 do Skore, espero que seja a primeira de muitas e que sempre seja uma leitura agradável,
 provocativa, e que você aprenda algo novo.
 
-O titulo desse post vem de uma frase atribuida à Isaac Newton<sup>[1]</sup>:
+O título desse post vem de uma frase atribuída à Isaac Newton<sup>[1]</sup>:
 
 > If I have seen further it is by standing on the shoulders of Giants.
 
@@ -18,7 +18,7 @@ Em uma tradução livre para o português seria:
 
 > Se eu vi mais longe, é por estar nos ombros de gigantes.
 
-Essa frase descreve muito bem o meu dia-dia como desenvolvedor e o valor que gero
+Essa frase descreve muito bem o meu dia a dia como desenvolvedor e o valor que gero
 para o Skore. Em praticamente tudo que fazemos já tivemos percursores que enfrentaram
 as complexidades e como resultado disso, criaram frameworks, escreveram livros ou os dois.
 
@@ -26,17 +26,17 @@ Você tem um problema e seu instinto diz que alguém em algum momento já passou
 estão os padrões de projetos para te guiar na solução do problema. Tenho dois exemplos muito
 bons, o primeiro um livro `Design Patterns: Elements of Reusable Object-Oriented Software`<sup>[2]</sup> que
 ficou conhecido como _Gang of Four_ por ter 4 pessoas como autoras. Esse livro nunca li, mas
-tenho como referência, até por que ler livro sobre padrões de projeto sem ter um problema para
+tenho como referência, até por que ler um livro sobre padrões de projeto sem ter um problema para
 resolver não é uma leitura muito agradável, também gosto muito do Refactoring Guru<sup>[3]</sup>
 que tem uma abordagem mais clara e direta com exemplos em diversas linguagens.
 
 Você quer se tornar um profissional melhor mas não sabe muito bem por onde começar? Robert C. Martin (Uncle Bob)<sup>[4]</sup>
 te guia nessa jornada que nunca acaba. No livro `Clean Code: A Handbook of Agile Software Craftsmanship`<sup>[5]</sup>
-temos ensinamentos incriveis sobre como escrever um código mais legível, conciso e
-de fácil manuntenção. Esse livro eu recomendo a leitura para qualquer pessoa
-com qualquer nivel de experiência em desenvolvimento de software.
+temos ensinamentos incríveis sobre como escrever um código mais legível, conciso e
+de fácil manutenção. Esse livro eu recomendo a leitura para qualquer pessoa
+com qualquer nível de experiência em desenvolvimento de software.
 
-Você esta lidando com código legado que é extremamente difícil a manuntenção? Martin Fowler<sup>[6]</sup>
+Você está lidando com código legado que é extremamente difícil a manuntenção? Martin Fowler<sup>[6]</sup>
 escreveu um livro que aborda exatamente esse tópico, em `Refactoring: Improving the Design of Existing Code`<sup>[7]</sup>
 ele aborda a refatoração de código com exemplos práticos e sugestões de como identificar
 a melhor maneira de melhorar um código já existente.
