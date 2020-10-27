@@ -7,7 +7,7 @@ author: Natan Deitch
 ---
 
 Olá eu sou o Natan, gostaria de agradecer sua primeira visita ao blog da engenharia
-do Skore, espero que a primeira de muitas e que sempre seja uma leitura agradável,
+do Skore, espero que seja a primeira de muitas e que sempre seja uma leitura agradável,
 provocativa, e que você aprenda algo novo.
 
 O titulo desse post vem de uma frase atribuida à Isaac Newton<sup>[1]</sup>:
