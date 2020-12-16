@@ -6,8 +6,10 @@ categories: geral
 author: Marcos Ribeiro
 ---
 
-Sabemos que entregar um serviço de qualidade dentro do prazo, por muitas vezes, não é uma tarefa fácil. Passando por erros de estimativa e até dificuldades técnicas, acabamos atrasando entregas e criando involuntariamente um ambiente desconfortável para todos os envolvidos no processo. 
+Sabemos que entregar um serviço de qualidade dentro do prazo, por muitas vezes, não é uma tarefa fácil. Passando por erros de estimativa e até dificuldades técnicas, acabamos atrasando entregas e criando involuntariamente um ambiente desconfortável para todos os envolvidos no processo.
+
 Além de conseguir encontrar as ferramentas ideais e usá-las de forma correta na expectativa de alcançar nossos objetivos pessoais e os da empresa, precisamos também observar outros fatores que podem estar sugando nossa produtividade fora da esfera tecnológica, como nossa saúde física e mental, afinal, ninguém consegue executar um bom trabalho se a saúde não estiver em dia.
+
 O foco deste artigo é trazer algumas das ferramentas e hábitos que adotamos em busca da produtividade e expor o que tem ou não dado certo até o momento.
 
 ## Ferramentas
@@ -21,7 +23,7 @@ Cronograma (Ajudou bastante em um projeto recente, o Adaptive Learning).
 Quadros (Kanban).
 
 **Como estamos sendo produtivos usando o Asana**:
-- Ao final de cada dia, registramos nos cards do board o trabalho que foi realizado e se há algum impedimento para finalização da tarefa, assim agilizamos nossa reunião diária do time (Daily) e deixar todos os envolvidos atualizados. 
+- Ao final de cada dia, registramos nos cards do board o trabalho que foi realizado e se há algum impedimento para finalização da tarefa, assim agilizamos nossa reunião diária do time (Daily) e deixamos todos os envolvidos atualizados. 
 - Mencionamos nos comentários dos cards as pessoas que precisam estar cientes de alguma tarefa específica a ser realizada.
 
 **Prós**: 
@@ -30,7 +32,7 @@ Quadros (Kanban).
 
 **Contras**: 
 - Falta a opção de filtros simultâneos no Inbox do Asana Web.
-- Faltam opções na integração de notificação (https://asana.com/apps/slack) com o Slack, pois chegam todas mensagens sem possibilidade de filtrar por usuário, por exemplo.
+- Faltam opções na [integração de notificação](https://asana.com/apps/slack) com o Slack, pois as mensagens chegam sem possibilidade de filtros por usuário, por exemplo.
 - Tracking das tarefas: pelo menos até onde sei, não conseguimos rastrear o tempo de entrega de uma tarefa, seja ela entregue dentro ou fora do prazo estimado, o que afeta diretamente o benchmarking de estimativa X entrega.
 
 
@@ -52,7 +54,7 @@ A principal feature do Slack são os canais (channels), já que podemos separar 
 - Integração com milhares de apps.
 
 **Contras**: 
-- Ele é ótimo para compartilhar informações e arquivos, mas com a evolução das empresas e consequentemente o número de funcionários, a maneira como se utiliza o Slack pode gerar desconforto no time como um todo. Dentro dos canais podemos usar determinadas ‘tags’ para [fazer menções](https://slack.com/intl/pt-br/help/articles/202009646-Notificar-um-canal-ou-workspace) e notificar os integrantes de um canal ou até mesmo todos colaboradores da empresa, isso é ótimo por um lado quando se precisa de atenção de todos mas se usado desenfreadamente pode interferir na concentração e fluxo de trabalho de outros membros do time que talvez não estejam ligados de fato ao conteúdo da notificação. Portanto é necessário usar o bom senso na hora de de sair dando um @everybody/@all nas suas postagens do Slack.
+- Ele é ótimo para compartilhar informações e arquivos, mas com a evolução das empresas e consequentemente o número de funcionários, a maneira como se utiliza o Slack pode gerar desconforto no time como um todo. Dentro dos canais podemos usar determinadas ‘tags’ para [fazer menções](https://slack.com/intl/pt-br/help/articles/202009646-Notificar-um-canal-ou-workspace) e notificar os integrantes de um canal ou até mesmo todos colaboradores da empresa, isso é ótimo por um lado quando se precisa de atenção de todos mas, se usado desenfreadamente, pode interferir na concentração e fluxo de trabalho de outros membros do time que talvez não estejam ligados de fato ao conteúdo da notificação. Portanto, é necessário usar o bom senso na hora de de sair dando um @everybody/@all nas suas postagens do Slack.
 
 
 **3 - Google [Calendar](https://workspace.google.com/intl/pt-BR/products/calendar)** 
@@ -62,7 +64,7 @@ O Google Calendar (Agenda) é nossa agenda compartilhada onde todos os membros d
 **Como estamos sendo produtivos usando o Google Calendar**:
 - Uma vez por semana deixamos nosso calendário livre de reuniões, o nosso “no-meeting day”, assim podemos focar o dia todo nas tarefas.
 - Organizando as reuniões de forma conjunta, sem atrapalhar a agenda e horários dos colegas.
-- Setando horários que estaremos focados ou como decidi nomear na minha agenda “Focus/Maker Mode”. Durante esse momento eu foco totalmente nas- tasks, já aviso o pessoal de casa pra não me chamar pra nada e desativo todas as notificações. 
+- Setando horários que estaremos focados ou como decidi nomear na minha agenda “Focus/Maker Mode”. Durante esse momento eu foco totalmente nas tasks, peço ao pessoal de casa para não me chamar durante este período e desativo todas as notificações. 
 - Integrando com o Slack para receber notificações diárias sobre os eventos.
 
 **Prós**:
