@@ -103,7 +103,7 @@ Entre as demais ferramentas que utilizamos em busca de produtividade estamos uti
 - **Docker**: Podemos começar a trabalhar em minutos usando imagens Docker para configurar um ambiente de desenvolvimento, além de utilizar diversos outros serviços e aplicações em seus containers.
 - **ASDF**: É uma ferramenta para gerenciamento de versões, diferentemente do rbenv para Ruby ou nvm para o Node.js, que gerenciam linguagens específicas, com o ASDF você gerencia as mais diversas versões através de seus plugins.
 - **ZSH**: Framework open-source para gerenciar a configuração do ZSH (Terminal feito para uso interativo) e melhorar o workflow de desenvolvimento. Ele inclui mais de 200 plugins opcionais (o meu favorito é para o github, já que uso o terminal para executar os comandos GIT) 
-- **RescueTime**: Fornece relatórios semanais de onde você gasta seu tempo na semana, mostrando para cada categoria, dando clareza de quanto tempo você passa codando, estudando, estruturando a parte de business, etc.
+- **RescueTime**: Fornece relatórios semanais classificados por categoria onde você gasta seu tempo, dando clareza de quanto tempo você passa codando, estudando, estruturando a parte de business, etc.
 - **WakaTime**: Essa extensão do VS code é sensacional porque te dá um relatório semanal de quanto tempo exato você passa em cada projeto, dando clareza da alocação de tempo para desenvolvimento.
 - **CodeTime**: Mais completa que o WakaTime, entrega relatórios conectado com o Calendar.
 - **Pluralsight Visual Studio Code IDE extension**: Ferramenta poderosa para obter relatórios de tempo gasto com desenvolvimento além de ajudá-lo a obter recomendações de treinamento baseado nas linguagens utilizadas.
@@ -121,7 +121,7 @@ No meu caso faço exercícios de segunda a sexta após o trabalho e agora comece
 
 **2 - Ouvir música**
 
-Outra unanimidade entre a maioria dos desenvolvedores é escutar música enquanto realiza suas tarefas. Os estilos são os mais variados, mas no geral todos acreditam obter mais criativos e concentrados quando estão ouvindo suas músicas favoritas. YouTube e Spotify são os Apps mais utilizados.
+Outra unanimidade entre a maioria dos desenvolvedores é escutar música enquanto realiza suas tarefas. Os estilos são os mais variados, mas no geral todos acreditam que ouvindo suas músicas favoritas se tornam mais criativos e concentrados. YouTube e Spotify são os Apps mais utilizados.
 
 **3 - Demais hábitos que praticamos em busca de produtividade**
 
